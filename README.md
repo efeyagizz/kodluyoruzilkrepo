@@ -27,5 +27,5 @@ code.
 
 [MIT](https://github.com/efeyagizz/kodluyoruzilkrepo/blob/main/LICENSE)
 
-
+![Resim](https://picsum.photos/seed/picsum/200/300)
 
