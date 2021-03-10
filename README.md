@@ -6,7 +6,7 @@
 
 ###### Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'git clone https://github.com/efeyagizz/kodluyoruzilkrepo.git'
+`git clone https://github.com/efeyagizz/kodluyoruzilkrepo.git`
 
 # Usage
 
@@ -14,9 +14,9 @@
 
 ###### Linux için:
 
-'''cd kodluyoruzilkrepo
+```cd kodluyoruzilkrepo
 code.
-'''
+```
 
 # Contributing
 
